@@ -1,0 +1,54 @@
+.bg-dark{
+    background : #970397!important;
+}
+
+.card {
+        border-radius: 0;
+        border: 2px solid #970397!important;
+}
+
+.form-search-c {
+    border: 2px solid #970397!important;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.link-image-product{
+    padding: 10px;
+}
+
+.card-title a{
+    color: #160f13
+}
+
+.card-title a:hover{
+    color: #60ef07;
+    text-decoration: none;
+}
+
+.btn-beli{
+    width: 100%;
+    height: 100%;
+    background: #17a2b8;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 5px;
+    font-weight: 800;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.btn-beli:hover {
+    background: #60ef07;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.list-group a{
+    color: #970397;
+    font-weight: 600;
+}
+
+.card-img-top{
+    max-height: 235px;
+}
